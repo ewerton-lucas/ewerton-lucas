@@ -1,9 +1,14 @@
-## Olá!! Eu sou o Ewerton
+<div align="left">
+  
+   <p>Olá!! Eu sou o Ewerton... >:3</p>
+   <a href="https://picasion.com/"><img  alt="Gif" src="https://i.picasion.com/pic92/a316e3bdc4867362f0c5a7129cd755db.gif" width="300" height="300" border="0"  alt="https://picasion.com/" /></a>
+  
+ </div>
 
 <div align="center">
   <a href="https://github.com/ewerton-lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewerton-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-lucas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewerton-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-lucas&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -15,7 +20,7 @@
   <img align="center" alt="VSCode " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg ">
   <img align="center" alt="C " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg ">
   <img align="center" alt="Gimp " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ">
-
+ 
 </div>
   
   ##
@@ -25,5 +30,7 @@
 <a href="https://discord.com/channels/@me " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white " target="_blank"></a>
 <a href="https://www.instagram.com/ewerton7_7/ " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " target="_blank"></a>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox " target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
+  
  ![Snake animation](https://github.com/ewerton-lucas/ewerton-lucas/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
