@@ -1,10 +1,4 @@
-<div align="left">
-  
-   <p>Olá!! Eu sou o Ewerton... >:3</p>
-   <a href="https://picasion.com/"><img  alt="Gif" src="https://i.picasion.com/pic92/a316e3bdc4867362f0c5a7129cd755db.gif" width="300" height="300" border="0"  alt="https://picasion.com/" /></a>
-  
- </div>
-
+## Olá!! Eu sou o Ewerton... >:3
 <div align="center">
   <a href="https://github.com/ewerton-lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewerton-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -21,6 +15,8 @@
   <img align="center" alt="C " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg ">
   <img align="center" alt="Gimp " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ">
  
+  <a href="https://picasion.com/"><img align="right" alt="Gif " src="https://i.picasion.com/pic92/a316e3bdc4867362f0c5a7129cd755db.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br />
+  
 </div>
   
   ##
