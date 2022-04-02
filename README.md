@@ -1,7 +1,7 @@
 # Bodia Bodia!! Ewerton aqui, etc, etc... 🦇
 <div> 
 
-  <p>Já dizia aquele velho e conhecido ditado: <i>"Pouco faz quem ajuda atrapalhando."</i> Colorado, Chapolin.</p>
+  <p>Já dizia aquele velho e conhecido ditado: <i>"Pouco faz quem ajuda atrapalhando".</i> Colorado, Chapolin.</p>
 
 </div>
 
