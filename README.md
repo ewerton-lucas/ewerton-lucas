@@ -34,11 +34,11 @@
 
   <img align="center" title="Java" alt="Java " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg ">
 
+  <img align="center" title="C" alt="C " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg ">
+
   <img align="center" title="MySql" alt="MySql " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg ">
 
   <img align="center" title="VSCode" alt="VSCode " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg ">
-
-  <img align="center" title="C" alt="C " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg ">
 
   <img align="center" title="Gimp" alt="Gimp " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ">
   
