@@ -41,10 +41,10 @@
   <img align="center" title="C" alt="C " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg ">
 
   <img align="center" title="Gimp" alt="Gimp " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ">
-
-  <hr/>
   
 </div>
+
+#
 
 # Redes sociais:
 
