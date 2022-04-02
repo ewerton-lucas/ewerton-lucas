@@ -1,7 +1,5 @@
-# Bodia Bodia!! Ewerton aqui, etc, etc... 🦇
+# Bodia Bodia!! Ewerton aqui, etc, etc... 🦇 <br/>Já dizia aquele velho e conhecido ditado: <i>"Pouco faz quem ajuda atrapalhando".</i> Colorado, Chapolin.
 <div> 
-
-  <h1>Já dizia aquele velho e conhecido ditado: <i>"Pouco faz quem ajuda atrapalhando".</i> Colorado, Chapolin.</h1>
 
    <a href="https://picasion.com/"><img align="right" title="GifAnimado" alt="Gif " src="https://i.picasion.com/pic92/a316e3bdc4867362f0c5a7129cd755db.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br />
 
@@ -54,10 +52,10 @@
   
 </div>
 
-# :trollface:
+# TURURU... :trollface:
 
 <div>
 
   ![Snake animation](https://github.com/ewerton-lucas/ewerton-lucas/blob/output/github-contribution-grid-snake.svg)
-  
+
 </div>
