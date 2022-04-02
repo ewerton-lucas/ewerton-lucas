@@ -3,6 +3,8 @@
 
   <p>Já dizia aquele velho e conhecido ditado: <i>"Pouco faz quem ajuda atrapalhando".</i> Colorado, Chapolin.</p>
 
+   <a href="https://picasion.com/"><img align="right" title="GifAnimado" alt="Gif " src="https://i.picasion.com/pic92/a316e3bdc4867362f0c5a7129cd755db.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br />
+
 </div>
 
 # Passa tempos:
@@ -39,8 +41,6 @@
   <img align="center" title="C" alt="C " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg ">
 
   <img align="center" title="Gimp" alt="Gimp " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ">
- 
-  <a href="https://picasion.com/"><img align="right" title="GifAnimado" alt="Gif " src="https://i.picasion.com/pic92/a316e3bdc4867362f0c5a7129cd755db.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br />
   
 </div>
 
