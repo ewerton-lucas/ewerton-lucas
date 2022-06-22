@@ -1,4 +1,4 @@
-# Bodia Bodia!! Ewerton aqui, etc, etc... 🦇 <br/><i>"Pouco faz quem ajuda atrapalhando".</i> Colorado, Chapolin.
+# Olá!! Ewerton aqui, bem vindo(a). Não repara a bagunça. <p><i>"Pouco faz quem ajuda atrapalhando".</i> Colorado, Chapolin.</p>
 
 <div> 
 
@@ -13,34 +13,31 @@
 - MOBA 🤩
 - MMO RPG 🤩
 
-# Atividade:
-
-<div align="center">
-
-  <a href="https://github.com/ewerton-lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewerton-lucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-lucas&layout=compact&langs_count=7&theme=dracula" />
-
-</div>
-
-# Linguagens e Tecnologias que tenho noções lvl intermerdiário++ 😌
+# Tecnologias
 
 <div style="display: inline_block"><br>
 
-  <img align="center" title="HTML5" alt="HTML5 " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg ">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 
-  <img align="center" title="CSS3" alt="CSS3 " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg ">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
-  <img align="center" title="Java" alt="Java " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg ">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
 
-  <img align="center" title="C" alt="C " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg ">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 
-  <img align="center" title="MySql" alt="MySql " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg ">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 
-  <img align="center" title="VSCode" alt="VSCode " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg ">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
-  <img align="center" title="Gimp" alt="Gimp " height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg ">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
+
+<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="Gimp">
   
 </div>
 
@@ -51,12 +48,16 @@
 <div> 
 
 <a href="https://discord.io/srvpatuncio" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white " target="_blank"></a>
-<a href="https://www.instagram.com/ewerton7_7/ " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " target="_blank"></a>
+
 <a href="mailto:ewertonfp28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
+
+<a href="https://www.instagram.com/ewerton7_7/ " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " target="_blank"></a>
+
+<a href="https://api.whatsapp.com/send?phone=5584991123766" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 </div>
 
-# Tururu... :trollface:
+#
 
 <div>
 
