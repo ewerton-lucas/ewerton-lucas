@@ -47,13 +47,13 @@
 
 <div style="display: inline_block"> 
 
-<a href="https://discord.io/srvpatuncio" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white " target="_blank"></a>
+<a href="https://discord.io/srvpatuncio" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "></a>
 
-<a href="mailto:ewertonfp28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target="_blank"></a>
+<a href="mailto:ewertonfp28@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "></a>
 
-<a href="https://www.instagram.com/ewerton7_7/ " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white " target="_blank"></a>
+<a href="https://www.instagram.com/ewerton7_7/ " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white "></a>
 
-<a href="https://api.whatsapp.com/send?phone=5584991123766" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send?phone=5584991123766" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
 </div>
 
