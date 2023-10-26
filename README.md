@@ -10,15 +10,15 @@
 
 <br/>
 
-Atualmente, estou cursando o Bacharelado em Sistemas de Informação pela UFERSA - Campus Angicos. Além disto, reforço que ainda não tenho experiência profissional na área. Porém, almejo poder contribuir para o mercado.
+Atualmente, estou cursando o Bacharelado em Sistemas de Informação pela UFERSA - Campus Angicos. Além disso, reforço que ainda não tenho experiência profissional na área. Porém, almejo poder contribuir para o mercado.
 
 Se tenho interesses? Sim. Aprender, eu diria, no sentido mais genérico possível.
 
-Destacar qualidades em sí próprio, não costuma ser uma tarefa tão simples. A menos, é claro, que o seu ego seja igual ao do [Escanor](https://pt.wikipedia.org/wiki/Nanatsu_no_Taizai#Personagens) 😂. Contudo, entretanto, todavia, posso me descrever como uma pessoa **autodidata** e **persistente**. Não que seja grande coisa, mas é o mínimo a se esperar de mim.
+Destacar qualidades em sí próprio, não costuma ser uma tarefa tão simples. A menos, é claro, que o seu ego seja igual ao do [Escanor](https://pt.wikipedia.org/wiki/Nanatsu_no_Taizai#Personagens) 😂. Contudo, posso me descrever como uma pessoa **autodidata** e **persistente**. Não que seja grande coisa, mas é o mínimo a se esperar de mim.
 
-Um certo professor uma vez me disse: *"Primeiro, faça funcionar. Depois, faça funcionar bonito"*. Desde então, me preocupo em resolver problemas, bem como, garantir a legibilidade da solução. Afinal, programador escreve Software para pessoas e, não para máquinas.
+Um certo professor uma vez me disse: *"Primeiro, faça funcionar. Depois, faça funcionar bonito"*. Desde então, me preocupo em resolver problemas, bem como, garantir a legibilidade da solução. Afinal, programador escreve *Software* para pessoas e, não para máquinas.
 
-No mais, agradeço pelo tempo que investiu nessa leitura. Se por acaso quiser me encontrar, deixarei minhas redes sociais no fim da sessão. Desde já, um abraço! 👍😄
+No mais, agradeço pelo tempo que investiu nessa leitura. Se por acaso quiser me encontrar, deixarei minhas redes sociais no final. Desde já, um abraço! 👍😄
 
 ---
 
